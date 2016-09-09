@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+     <meta charset="utf-8">
+   <title>
+    Le journal - Accueil
+   </title>
+
+
+   <script type="text/javascript" src="java.js"></script>
+
+ <link rel="stylesheet" type="scipt/js" href="\Users\Joul\Documents\journal\java\java.js" />
+ </head>
+ <link rel="stylesheet" type="text/css" href="\Users\Joul\Documents\journal\css\style.css" />
+ <link rel="stylesheet" type="text/css" href="\Users\Joul\Documents\journal\css\footer.css" />
+ </head>
+
+
+ <body bgcolor="#E6E6E6">
+
+  <header>
+<a href="journal"><img src="\Users\Joul\Documents\journal\images\logo vrai.png"></a>
+
+
+
+  <ul id="menu">
+
+    <li>
+            <a href="journal">accueil</a>
+    </li>
+
+    <li>
+            <a href="informatique">Informatique</a>
+            <ul>
+                    <li><a href="\Users\Joul\Documents\site\Liens\BHack">BHack</a></li>
+                    <li><a href="programmation">Programmation</a></li>
+            </ul>
+    </li>
+
+    <li>
+            <a href="people">People</a>
+    </li>
+    <li>
+           <ul>
+                    <li>
+                            <a href="auto-moto">auto-moto</a>
+                    </li>
+            </ul>
+    </li>
+
+    <li>
+            <a href="sport">Sport</a>
+            <ul>
+                    <li><a href="#">foot-ball</a></li>
+                    <li><a href="#">box</a></li>
+            </ul>
+    </li>
+
+    <li>
+            <a href="politique">Politique</a>
+            <ul>
+                    <li><a href="#">France</a></li>
+                    <li><a href="#">International</a></li>
+            </ul>
+    </li>
+  <li>
+            <a href="science">Sciences</a>
+    </li>
+  <ul>
+     <li>
+             <a href="international">International</a>
+     </li>
+   </ul>
+
+
+  </ul>
+
+  <h4>
+    Bienvenue dans Journal!
+  </h4>
+  <br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+
+
+
+<br>
+ <p>
+  <footer>
+  <font color="black">
+  <a href="contact">Contactez-Nous!</a> <a href="createurs">Les créateurs</a> <a href="a-propos">A propos</a>  © 2016, Journal
+  </font color>
+</footer>
+ </p>
+</br>
+ </body>
+</html>

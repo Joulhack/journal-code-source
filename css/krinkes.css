@@ -1,0 +1,11 @@
+@font-face{
+font-family: 'Krinkes';
+src: url('\Users\Joul\Documents\journal\font\Krinkes.ttf')format ('ttf')
+}
+
+body {
+    font-family: "Ma Super Fonte", Helvetica, Arial, sans-serif;
+    }
+h1 {
+    font-family: "Ma Super Fonte", Helvetica, Arial, sans-serif;
+}

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+
+<head>
+  <meta charset="utf-8">
+  <title>
+    Le journal - Informatique
+  </title>
+  <script type="text/javascript" src="java.js"></script>
+
+<link rel="stylesheet" type="scipt/js" href="\Users\Joul\Documents\journal\java\java.js" />
+</head>
+<link rel="stylesheet" type="text/css" href="\Users\Joul\Documents\journal\css\style.css" />
+<link rel="stylesheet" type="text/css" href="\Users\Joul\Documents\journal\css\footer.css" />
+</head>
+
+
+
+<body bgcolor="black">
+  <header>
+    <a href="journal"><img src="\Users\Joul\Documents\journal\images\logo vrai.png"></a>
+  </header>
+  <h1>
+    <font color="#00ff00">
+      <center>
+        Bienvenue dans la catégorie <u>Informatique</u>!
+      </center>
+    </font color>
+  </h1>
+
+  <ul id="menu">
+
+    <li>
+            <a href="journal">accueil</a>
+    </li>
+
+    <li>
+            <a href="informatique">Informatique</a>
+            <ul>
+                    <li><a href="\Users\Joul\Documents\site\Liens\BHack">BHack</a></li>
+                    <li><a href="programmation">Programmation</a></li>
+            </ul>
+    </li>
+
+    <li>
+            <a href="people">People</a>
+    </li>
+    <li>
+           <ul>
+                    <li>
+                            <a href="auto-moto">auto-moto</a>
+                    </li>
+            </ul>
+    </li>
+
+    <li>
+            <a href="sport">Sport</a>
+            <ul>
+                    <li><a href="#">foot-ball</a></li>
+                    <li><a href="#">box</a></li>
+            </ul>
+    </li>
+
+    <li>
+            <a href="politique">Politique</a>
+            <ul>
+                    <li><a href="#">France</a></li>
+                    <li><a href="#">International</a></li>
+            </ul>
+    </li>
+  <li>
+            <a href="science">Sciences</a>
+    </li>
+  <ul>
+     <li>
+             <a href="international">International</a>
+     </li>
+   </ul>
+
+
+  </ul>
+
+  <h4>
+    Bienvenue dans Journal!
+  </h4>
+
+
+
+  <table>
+          <tr>
+
+            <td>
+             <p>
+              <figure>
+    <a href="\Users\Joul\Documents\site\Liens\BHack"><img src="\Users\Joul\Documents\journal\images\hack ordinateur.png"alt="tp" style="float:down;margin-right:-8px;"/><font color="#605045" alt="Des news de hacking, et apprendre le hacking" /></a>
+      <p><figcaption>Des news de hacking, et apprendre le hacking</figcaption></p>
+              </figure>
+             </p>
+            </td>
+
+              <td>
+              <p>
+              <figure>
+  <a href="\Users\Joul\Documents\site\Liens\programmation"><img src="\Users\Joul\Documents\journal\images\programmation.jpg" alt="tp" style="float:down;margin-left:8px;"><font color="#605045" alt="Des news de programmation et apprendre la programmation" /></a>
+      <figcaption>Des news de programmation et apprendre la programmation</figcaption>
+            </figure>
+            </p>
+            </td>
+
+          </tr>
+  </table>
+
+<footer>
+  <font color="black">
+  <a href="contacte">Contactez-Nous!</a> <a href="créateurs">Les créateurs</a> <a href="a-propos">A propos</a>  © 2016, Journal
+  </font color>
+</footer>
+
+</body>
+</html>

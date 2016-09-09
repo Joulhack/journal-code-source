@@ -1,0 +1,20 @@
+
+
+
+
+@font-face {
+    
+font-family: 'krinkes_regular_personal_usRg';
+    
+src: url('font\krinkes-webfont.woff2') format('woff2'),
+         
+url('font\krinkes-webfont.woff') format('woff');
+    
+font-weight: normal;
+    
+font-style: normal;
+
+
+}
+.font {
+font-family: krinkes_regular_personal_usRg;
